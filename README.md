@@ -1,5 +1,5 @@
 # Cpp_Snake_Game_Console
-#View:
+# View:
 
 
 
